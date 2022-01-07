@@ -1,5 +1,5 @@
 # tencentcloud-ios
-腾讯云api3.0签名-v3 ios版本
+api3.0-v3-ios
 使用方法：直接将两个文件拖到项目，在需要使用的地方引入头文件，只需要setConfig一次
 
 示例如下:
